@@ -1,0 +1,7 @@
+.pasted-image-container {
+  display: flex;
+  position: relative;
+}
+.pasted-image-pasted-image {
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+}

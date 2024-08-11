@@ -1,0 +1,66 @@
+.app-component-container {
+  width: 100%;
+  height: 74px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #e1e1e1;
+  align-items: center;
+  padding-left: 42px;
+  padding-right: var(--dl-space-space-fiveunits);
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+.app-component-container1 {
+  flex: 0 0 auto;
+  width: 520px;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: center;
+  align-items: center;
+  padding-left: 132px;
+  padding-right: 132px;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.app-component-navlink {
+  color: #ffffff;
+  font-family: "Montserrat-SemiBold";
+  border-radius: 8px;
+  text-decoration: none;
+  background-color: #000000;
+}
+.app-component-navlink1 {
+  color: rgb(0, 0, 0);
+  transition: 0.3s;
+  border-color: #000000;
+  border-width: 3px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.app-component-navlink1:hover {
+  color: white;
+  background-color: black;
+}
+.app-component-fragment {
+  display: contents;
+}
+.app-component-text3 {
+  display: inline-block;
+}
+.app-component-fragment1 {
+  display: contents;
+}
+.app-component-text4 {
+  display: inline-block;
+}
+.app-component-fragment2 {
+  display: contents;
+}
+.app-component-text5 {
+  display: inline-block;
+  font-size: 36px;
+  font-style: normal;
+  font-family: "Montserrat-SemiBold";
+  font-weight: 700;
+}
